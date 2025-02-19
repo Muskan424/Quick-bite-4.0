@@ -68,5 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙌 Acknowledgments
 Special thanks to *Meta AI* for providing powerful AI capabilities for seamless customer support.
 
----
-Feel free to modify as per your project’s needs! 🚀
+
